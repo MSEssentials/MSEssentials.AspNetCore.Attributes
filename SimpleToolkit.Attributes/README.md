@@ -25,6 +25,8 @@ SimpleToolkit is package of useful classes, helpers, extensions and UI controls,
 
 ## Dependencies
 
+Dependencies should be installed automatically with this package
+
 - Microsoft.AspNetCore.Mvc.Core 2.3.0
 
 ## Installation and usage
