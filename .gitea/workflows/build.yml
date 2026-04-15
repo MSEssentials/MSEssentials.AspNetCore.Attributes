@@ -5,13 +5,13 @@ on:
     branches:
       - "dev"
     paths:
-      - "SimpleToolkit.Attributes**"
+      - "MSEssentials.AspNetCore.Attributes**"
   pull_request:
     branches:
       - "dev"
       - "main"
     paths:
-      - "SimpleToolkit.Attributes**"
+      - "MSEssentials.AspNetCore.Attributes**"
 
 jobs:
   build:

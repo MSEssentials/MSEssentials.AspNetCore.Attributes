@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleToolkit.Attributes", "SimpleToolkit.Attributes\SimpleToolkit.Attributes.csproj", "{9BE5C441-F10E-45F0-9869-33415E489A54}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSEssentials.AspNetCore.Attributes", "MSEssentials.AspNetCore.Attributes\MSEssentials.AspNetCore.Attributes.csproj", "{9BE5C441-F10E-45F0-9869-33415E489A54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

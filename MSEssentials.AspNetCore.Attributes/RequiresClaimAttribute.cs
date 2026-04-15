@@ -7,7 +7,7 @@ using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SimpleToolkit.Attributes
+namespace MSEssentials.AspNetCore.Attributes
 {
     [AttributeUsage(AttributeTargets.Class | AttributeTargets.Method)]
     public class RequiresClaimAttribute : Attribute, IAuthorizationFilter
